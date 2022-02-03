@@ -16,7 +16,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 ## Usage
 
-As this app is run by using Node, it cannot be deployed. To use this app, clone the repository using the instructions above, and then from the command line run 'node app'.
+As this app is run by using Node, it cannot be deployed. To use this app, clone the repository using the instructions above, and then from the command line run 'npm install' and then 'node app'.
 
 When generated correctly, the command line should look like this:
 
