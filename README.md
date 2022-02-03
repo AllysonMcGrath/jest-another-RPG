@@ -20,7 +20,7 @@ As this app is run by using Node, it cannot be deployed. To use this app, clone 
 
 When generated correctly, the command line should look like this:
 
-![Command line showing text with player stats and a battle between the user and a goblin](./jestanotherrpgpic.jpg)
+![Command line showing text with player stats and a battle between the user and a goblin](./jestanotherrpgpic.JPG)
 
 
 Use standard git commands within this repository.
